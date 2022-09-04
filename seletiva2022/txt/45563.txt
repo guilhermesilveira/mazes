@@ -1,0 +1,38 @@
+
+           Você          
+
+                          +-------------------------+-------------------------+-------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
+                          |                                                                                                                                                           |                         |
+    Continued fractions   |      Tree painting                 Cycles                 MST Kruskal                   LCS                     Pruning             Circles Intersection  |           MST           |
+                          |                                                                                                                                                           |                         |
++                         +-------------------------+                         +-------------------------+                         +                         +                         +                         +
+|                                                   |                         |                                                   |                         |                         |                         |
+|  Nearest pair of points           Bridges         |      Primitive Root     |      Shortest path            Area of polygon     |  Integer factorization  |   Articulation Points   |    Matrix determinant   |
+|                                                   |                         |                                                   |                         |                         |                         |
++-------------------------+                         +-------------------------+                         +-------------------------+                         +                         +                         +
+|                         |                                                                             |                                                                             |                         |
+|     Prims Algorithm     |    Divide and Conquer             Dijkstra               Discrete Root      |  Sieve of Eratosthenes         Eulerian Path           Range sum queries    |        Fibonacci        |
+|                         |                                                                             |                                                                             |                         |
++                         +-------------------------+-------------------------+-------------------------+                         +-------------------------+-------------------------+                         +
+|                                                   |                                                   |                                                   |                                                   |
+|     Bipartite Graph           Primality tests     |           GCD                  Ternary Search     |       Matrix rank            Depth First Search   |       Maximum flow               Quick sort       |
+|                                                   |                                                   |                                                   |                                                   |
++                         +-------------------------+                         +                         +-------------------------+                         +                         +                         +
+|                         |                                                   |                                                   |                         |                         |                         |
+|       Linear Sieve      | Point in convex polygon    Segments Intersection  |    Equation of a line            Acyclicity       |  Binomial Coefficients  |            DP           |   Topological Sorting   |
+|                         |                                                   |                                                   |                         |                         |                         |
++                         +                         +-------------------------+                         +                         +                         +                         +                         +
+|                                                   |                         |                         |                         |                         |                         |                         |
+|      Insertion sort             Bellman-Ford      |   Connected components  |    Disjoint Set Union   |        Gray code        |    Sqrt Decomposition   |      Newton method      |       Segment Tree      |
+|                                                   |                         |                         |                         |                         |                         |                         |
++                         +-------------------------+                         +                         +                         +                         +                         +                         +
+|                         |                                                   |                         |                         |                         |                         |                         |
+|       Bubble sort       |      Binary Search               Merge sort       |      Selection sort     |       Backtracking      |  Intersection of Lines  |       Discrete Log      |   Breadth First Search  |
+|                         |                                                   |                         |                         |                         |                         |                         |
++                         +                         +                         +                         +-------------------------+                         +-------------------------+                         +
+|                                                   |                         |                                                                                                                                  
+|           LIS                        A*           |       Suffix Tree       |       Sparse Table           Factorial modulo p          String Hashing            Floyd-Warshall          Knuth-Morris-Pratt    
+|                                                   |                         |                                                                                                                                  
++-------------------------+-------------------------+-------------------------+-------------------------+-------------------------+-------------------------+-------------------------+                          
+
+                                                                                                                                                                                               Medalha         
