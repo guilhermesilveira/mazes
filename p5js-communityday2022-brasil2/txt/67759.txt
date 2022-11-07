@@ -1,0 +1,30 @@
+
+        você        
+
+                     +--------------------+--------------------+--------------------+--------------------+--------------------+
+                                                                                                                              |
+         sin                 bezier                cos                 filter           randomGaussian            map         |
+                                                                                                                              |
++--------------------+--------------------+--------------------+--------------------+                    +                    +
+|                                                              |                                                              |
+| requestPointerLock         point                curve        |       blend                rotate           mouseIsPressed   |
+|                                                              |                                                              |
++--------------------+                    +--------------------+                    +--------------------+--------------------+
+|                                         |                                         |                                         |
+|     loadImage          createCapture    |     blendMode            lerpColor      |        arc                  quad        |
+|                                         |                                         |                                         |
++                    +                    +                    +--------------------+                    +                    +
+|                    |                    |                                         |                    |                    |
+|        line        |     textAlign      |       color                 hour        |     frameCount     |    keyIsPressed    |
+|                    |                    |                                         |                    |                    |
++                    +                    +--------------------+                    +--------------------+                    +
+|                                                              |                                                              |
+|       noise               ellipse                rect        |     translate             shuffle            loadStrings     |
+|                                                              |                                                              |
++                    +                    +                    +--------------------+                    +                    +
+|                                         |                                                                                    
+|       scale                month        |        text              strokeJoin             circle             deltaTime       
+|                                         |                                                                                    
++--------------------+--------------------+--------------------+--------------------+--------------------+                     
+
+                                                                                                               sua obra      
